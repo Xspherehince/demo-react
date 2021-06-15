@@ -1,0 +1,10 @@
+footer{
+    background-color: palevioletred !important;
+}
+footer h5{
+    color: yellow !important;
+}
+.link-secondary{
+    color: wheat !important;
+    text-decoration: none;
+}
